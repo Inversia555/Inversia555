@@ -2,6 +2,7 @@
 - 👀 I’m interested in prograamming yes
 - 🌱 I’m currently learning C, Assembler.
 - ⚡ Fun fact: Russian users here)
+- Linux
 
 <!---
 Inversia555/Inversia555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
